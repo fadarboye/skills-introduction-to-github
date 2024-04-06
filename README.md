@@ -1,3 +1,7 @@
+![](https://img.shields.io/badge/Follow%20%ad-1.4k-blue?logo=linkedin&style=social "Follow in/Adeboye on LinkedIn")
+
+
+<a href="https://www.linkedin.com/in/adeboye-famurewa-700b9426/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  
 <header>
 
 <!--
@@ -7,7 +11,7 @@
   Add your open source license, GitHub uses MIT license.
 -->
 
-# Introduction to GitHub
+# Introduction to GitHub Completed
 
 _Get started using GitHub in less than an hour._
 
@@ -21,10 +25,10 @@ _Get started using GitHub in less than an hour._
 ## Finish
 
 _Congratulations, you've completed this course and joined the world of developers!_
+![R (3)](https://github.com/fadarboye/skills-introduction-to-github/assets/130584349/d43d4c3f-d75b-4878-9251-be8b7bd1f7a5)
 
-<img src=https://octodex.github.com/images/collabocats.jpg alt=celebrate width=300 align=right>
 
-Here's a recap of your accomplishments:
+Here's my recap of your accomplishments:
 
 - You learned about GitHub, repositories, branches, commits, and pull requests.
 - You created a branch, a commit, and a pull request.
